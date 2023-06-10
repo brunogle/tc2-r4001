@@ -1,0 +1,24 @@
+Circuit: * Z:\home\bruno\utn\tc2\tc2-r4001\trabajo_semanal_3\Draft1.asc
+
+Limiting rise time of source i§qpmtot to 1e-10
+Limiting fall time of source i§qpmtot to 1e-10
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri May  5 17:40:43 2023
+Total elapsed time: 0.130 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3085
+traniter = 3082
+tranpoints = 1542
+accept = 1421
+rejected = 121
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1:       6 opcodes  0.3/[0.2]/0.4
+Matrix Compiler2:      16 opcodes  0.4/[0.2]/0.3
+
