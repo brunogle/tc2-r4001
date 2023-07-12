@@ -1,0 +1,22 @@
+* C:\Users\Bruno\Documents\UTN\tc2-r4001\trabajo_semanal_2\sim_lp\sim_lp.asc
+XU1 N001 0 N005 opamp Aol=100K GBW=10G
+XU2 N006 0 N002 opamp Aol=100K GBW=10G
+XU3 N004 0 N003 opamp Aol=100K GBW=10G
+R1 N006 N005 {omega_z}
+C1 N005 N001 {C}
+R2 N005 N001 {Q*omega_z}
+R3 N001 N007 {-omega_z/K}
+C2 N003 N006 {C}
+R4 N004 N003 {omega_z}
+R5 N002 N004 {omega_z}
+V1 N007 0 AC 1
+R6 N002 N001 {omega_z}
+.param omega_z 1k
+.param K -1
+.param Q 1/sqrt(2)
+.param omega_0 2*pi*10k
+.param C 1/omega_0/omega_z
+.ac dec 1000 100 100k
+.inc opamp.sub
+.backanno
+.end
