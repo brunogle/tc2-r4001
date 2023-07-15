@@ -1,12 +1,5 @@
-Circuit: * C:\Users\Bruno\Documents\UTN\tc2-r4001\trabajo_laboratorio_1\sim.asc
+Circuit: * C:\Users\Bruno\Documents\UTN\tc2-r4001\trabajo_laboratorio_1\sim\sim.asc
 
-.OP point found by inspection.
-Ignoring empty pin current: Ix(u1:1)
-Ignoring empty pin current: Ix(u1:2)
-Ignoring empty pin current: Ix(u2:1)
-Ignoring empty pin current: Ix(u2:2)
-Ignoring empty pin current: Ix(u3:1)
-Ignoring empty pin current: Ix(u3:2)
 Ignoring empty pin current: Ix(u1:1)
 Ignoring empty pin current: Ix(u1:2)
 Ignoring empty pin current: Ix(u2:1)
@@ -14,22 +7,25 @@ Ignoring empty pin current: Ix(u2:2)
 Ignoring empty pin current: Ix(u3:1)
 Ignoring empty pin current: Ix(u3:2)
 
+gain_f0: v(vo)/v(vi)=(-0.000959008dB,-179.658°) at 6000
+gain_fp1: v(vo)/v(vi)=(-2.52075dB,-138.432°) at 5082
+gain_fp2: v(vo)/v(vi)=(-2.46259dB,138.868°) at 7082
+gain_fs1: v(vo)/v(vi)=(-28.3618dB,-92.1908°) at 600
+gain_fs2: v(vo)/v(vi)=(-28.3418dB,92.1926°) at 60000
 
 
-Date: Wed Jul 12 06:39:54 2023
-Total elapsed time: 0.041 seconds.
+Date: Sat Jul 15 05:06:01 2023
+Total elapsed time: 0.040 seconds.
 
 tnom = 27
 temp = 27
-method = modified trap
-totiter = 2128
-traniter = 2128
-tranpoints = 1065
-accept = 1062
-rejected = 3
+method = trap
+totiter = 0
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
 matrix size = 9
-fillins = 7
+fillins = 9
 solver = Normal
-Matrix Compiler1: 750 bytes object code size  0.1/0.1/[0.1]
-Matrix Compiler2: 783 bytes object code size  0.1/0.1/[0.1]
 
