@@ -127,7 +127,6 @@ plot_fir(taps_window)
 #FIR por metodo de cuadrados minimos
 
 bands = [[0, ws1] , [ws1, wp1], [wp1, wp2], [wp2, ws2], [ws2, fs/2]]
-
 gains_db = [-40, -40, -40, 0, 0, 0, 0, -40, -40, -40]
 gains = 10**(np.array(gains_db)/20)
 
