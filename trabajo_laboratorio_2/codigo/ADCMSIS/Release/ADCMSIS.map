@@ -1,0 +1,1361 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                              ./src/ADCMSIS.o (Board_LED_Set)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                              ./src/sysinit.o (Board_SystemInit)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                              ./src/adc.o (Chip_ADC_Init)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              ./src/ADCMSIS.o (SystemCoreClockUpdate)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o) (Chip_Clock_EnablePLL)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                              ./src/dac.o (Chip_DAC_Init)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o) (Chip_I2S_Init)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o) (Chip_IOCON_PinMux)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o) (Chip_SetupXtalClocking)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o) (Chip_UART_Init)
+C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o) (RingBuffer_Insert)
+C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+                              ./src/ADCMSIS.o (arm_biquad_cascade_df1_init_q31)
+C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+                              ./src/ADCMSIS.o (arm_fir_init_q31)
+C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+                              ./src/ADCMSIS.o (arm_fir_q31)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o) (memcpy)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o) (memset)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o) (__aeabi_ldivmod)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/ADCMSIS.o
+ .data          0x00000000        0x0 ./src/ADCMSIS.o
+ .bss           0x00000000        0x0 ./src/ADCMSIS.o
+ .text          0x00000000        0x0 ./src/adc.o
+ .data          0x00000000        0x0 ./src/adc.o
+ .bss           0x00000000        0x0 ./src/adc.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .text          0x00000000        0x0 ./src/dac.o
+ .data          0x00000000        0x0 ./src/dac.o
+ .bss           0x00000000        0x0 ./src/dac.o
+ .text          0x00000000        0x0 ./src/filter.o
+ .data          0x00000000        0x0 ./src/filter.o
+ .bss           0x00000000        0x0 ./src/filter.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_UART_Init
+                0x00000000        0x2 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_UARTPutChar
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.__sys_write
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_UARTGetChar
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.__sys_readc
+                0x00000000        0xa C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_UARTPutSTR
+                0x00000000       0x12 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_LED_Test
+                0x00000000       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_LED_Toggle
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_ENET_GetMacADDR
+                0x00000000       0x24 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_SSP_Init
+                0x00000000       0x80 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_SPI_AssertSSEL
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_SPI_DeassertSSEL
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_SPI_Init
+                0x00000000       0x6c C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_Audio_Init
+                0x00000000       0x22 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_I2C_Init
+                0x00000000       0x9c C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_Buttons_Init
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Buttons_GetStatus
+                0x00000000       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_Joystick_Init
+                0x00000000       0x38 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Joystick_GetStatus
+                0x00000000       0x44 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Serial_CreateStream
+                0x00000000        0x2 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_USBD_Init
+                0x00000000       0x40 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .rodata.stateButton
+                0x00000000        0x5 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .rodata.pinButton
+                0x00000000        0x5 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .rodata.portButton
+                0x00000000        0x5 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .rodata        0x00000000        0x6 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text.setStartMode
+                0x00000000        0xe C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text.Chip_ADC_DeInit
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text.Chip_ADC_ReadStatus
+                0x00000000       0x2c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text.Chip_ADC_SetStartMode
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text.Chip_ADC_ReadByte
+                0x00000000       0x16 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_USB_Init
+                0x00000000       0x3c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsPeripheralClockEnabled
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCPUClockSource
+                0x00000000       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetUSBClockDiv
+                0x00000000       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockDiv
+                0x00000000       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetPCLKDiv
+                0x00000000       0x2a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x20 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x28 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockRate
+                0x00000000       0x2c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .text.Chip_DAC_DeInit
+                0x00000000        0x2 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .text.Chip_DAC_SetBias
+                0x00000000       0x16 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.getClkDiv.constprop.0
+                0x00000000       0xfe C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_Init
+                0x00000000        0x6 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_DeInit
+                0x00000000       0x1e C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_TxConfig
+                0x00000000       0x6a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_RxConfig
+                0x00000000       0x6a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_Int_TxCmd
+                0x00000000       0x22 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_Int_RxCmd
+                0x00000000       0x22 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_DMA_TxCmd
+                0x00000000       0x26 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text.Chip_I2S_DMA_RxCmd
+                0x00000000       0x26 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_info    0x00000000      0x8f8 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_abbrev  0x00000000      0x292 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_loclists
+                0x00000000      0x382 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_aranges
+                0x00000000       0x60 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_rnglists
+                0x00000000       0x44 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_line    0x00000000      0x4f8 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_str     0x00000000      0x923 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .comment       0x00000000       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .debug_frame   0x00000000       0xd4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000000       0x64 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SystemInit
+                0x00000000        0x4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_DeInit
+                0x00000000       0x12 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_TXDisable
+                0x00000000        0x6 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_Send
+                0x00000000       0x1a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_CheckBusy
+                0x00000000        0xc C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_SendBlocking
+                0x00000000       0x1c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_Read
+                0x00000000       0x1a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_ReadBlocking
+                0x00000000       0x1c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_RXIntHandlerRB
+                0x00000000       0x22 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_TXIntHandlerRB
+                0x00000000       0x24 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_SendRB
+                0x00000000       0x42 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_ReadRB
+                0x00000000        0xa C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_IRQRBHandler
+                0x00000000       0x68 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_SetBaudFDR
+                0x00000000       0xfc C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_GetABEOStatus
+                0x00000000        0xc C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_ABCmd
+                0x00000000       0x36 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .bss.ABsyncSts
+                0x00000000        0x1 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text.RingBuffer_Init
+                0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text.RingBuffer_Insert
+                0x00000000       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text.RingBuffer_InsertMult
+                0x00000000       0x80 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text.RingBuffer_Pop
+                0x00000000       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text.RingBuffer_PopMult
+                0x00000000       0x7c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_info    0x00000000      0x537 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_abbrev  0x00000000      0x1cd C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_loclists
+                0x00000000      0x320 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_aranges
+                0x00000000       0x40 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_rnglists
+                0x00000000       0x9e C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_line    0x00000000      0x489 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_str     0x00000000      0x289 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .comment       0x00000000       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .debug_frame   0x00000000       0x90 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .text          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+ .data          0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+ .bss           0x00000000        0x0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .text.memcpy   0x00000000        0x4 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .comment       0x00000000       0x46 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x174 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000       0x1b c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x00000000       0x34 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/ADCMSIS.o
+LOAD ./src/adc.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/dac.o
+LOAD ./src/filter.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a
+LOAD C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a
+LOAD C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000      0xfbc
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0xfbc LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0xc8 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0xfbc LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x100000c8 ADDR (.bss)
+                0x000000e8        0x4 LONG 0xd14 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4       0x78 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                NMI_Handler
+                0x000000f6                HardFault_Handler
+                0x000000f8                MemManage_Handler
+                0x000000fa                BusFault_Handler
+                0x000000fc                UsageFault_Handler
+                0x000000fe                SVC_Handler
+                0x00000100                DebugMon_Handler
+                0x00000102                PendSV_Handler
+                0x00000104                SysTick_Handler
+                0x00000106                I2C0_IRQHandler
+                0x00000106                I2C1_IRQHandler
+                0x00000106                EINT2_IRQHandler
+                0x00000106                UART1_IRQHandler
+                0x00000106                EINT3_IRQHandler
+                0x00000106                CANActivity_IRQHandler
+                0x00000106                TIMER3_IRQHandler
+                0x00000106                UART0_IRQHandler
+                0x00000106                UART3_IRQHandler
+                0x00000106                RIT_IRQHandler
+                0x00000106                IntDefaultHandler
+                0x00000106                PLL0_IRQHandler
+                0x00000106                PWM1_IRQHandler
+                0x00000106                PLL1_IRQHandler
+                0x00000106                SSP0_IRQHandler
+                0x00000106                I2S_IRQHandler
+                0x00000106                I2C2_IRQHandler
+                0x00000106                RTC_IRQHandler
+                0x00000106                TIMER0_IRQHandler
+                0x00000106                SPI_IRQHandler
+                0x00000106                USBActivity_IRQHandler
+                0x00000106                EINT1_IRQHandler
+                0x00000106                TIMER1_IRQHandler
+                0x00000106                UART2_IRQHandler
+                0x00000106                SSP1_IRQHandler
+                0x00000106                USB_IRQHandler
+                0x00000106                BOD_IRQHandler
+                0x00000106                CAN_IRQHandler
+                0x00000106                WDT_IRQHandler
+                0x00000106                TIMER2_IRQHandler
+                0x00000106                QEI_IRQHandler
+                0x00000106                EINT0_IRQHandler
+                0x00000106                ETH_IRQHandler
+                0x00000106                DMA_IRQHandler
+                0x00000106                MCPWM_IRQHandler
+                0x00000108                data_init
+                0x0000011a                bss_init
+                0x0000012a                ResetISR
+                0x000002fc                . = 0x2fc
+ *fill*         0x0000016c      0x190 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.startup.main
+                0x00000300      0x118 ./src/ADCMSIS.o
+                0x00000300                main
+ .text.adcInit  0x00000418       0x48 ./src/adc.o
+                0x00000418                adcInit
+ .text.ADC_IRQHandler
+                0x00000460       0x68 ./src/adc.o
+                0x00000460                ADC_IRQHandler
+ .text.dacInit  0x000004c8        0xc ./src/dac.o
+                0x000004c8                dacInit
+ .text.dacWrite
+                0x000004d4        0xc ./src/dac.o
+                0x000004d4                dacWrite
+ .text.SystemInit
+                0x000004e0       0x14 ./src/sysinit.o
+                0x000004e0                SystemInit
+ .text.Board_LED_Set.part.0
+                0x000004f4       0x1c C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .text.Board_Debug_Init
+                0x00000510       0x28 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                0x00000510                Board_Debug_Init
+ .text.Board_LED_Set
+                0x00000538        0xa C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                0x00000538                Board_LED_Set
+ *fill*         0x00000542        0x2 ff
+ .text.Board_Init
+                0x00000544       0x24 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                0x00000544                Board_Init
+ .text.Board_SetupMuxing
+                0x00000568       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                0x00000568                Board_SetupMuxing
+ .text.Board_SetupClocking
+                0x0000057c       0x1c C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                0x0000057c                Board_SetupClocking
+ .text.Board_SystemInit
+                0x00000598        0xe C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                0x00000598                Board_SystemInit
+ .text.readAdcVal
+                0x000005a6       0x16 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x000005a6                readAdcVal
+ .text.Chip_ADC_Init
+                0x000005bc       0x48 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x000005bc                Chip_ADC_Init
+ .text.Chip_ADC_ReadValue
+                0x00000604        0x4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x00000604                Chip_ADC_ReadValue
+ .text.Chip_ADC_Int_SetChannelCmd
+                0x00000608       0x14 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x00000608                Chip_ADC_Int_SetChannelCmd
+ .text.Chip_ADC_SetSampleRate
+                0x0000061c       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x0000061c                Chip_ADC_SetSampleRate
+ .text.Chip_ADC_EnableChannel
+                0x0000064c       0x1e C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x0000064c                Chip_ADC_EnableChannel
+ .text.Chip_ADC_SetBurstCmd
+                0x0000066a       0x1a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                0x0000066a                Chip_ADC_SetBurstCmd
+ .text.SystemCoreClockUpdate
+                0x00000684       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x00000684                SystemCoreClockUpdate
+ .text.Chip_Clock_EnablePLL
+                0x00000694       0x24 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000694                Chip_Clock_EnablePLL
+ .text.Chip_Clock_DisablePLL
+                0x000006b8       0x26 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000006b8                Chip_Clock_DisablePLL
+ .text.Chip_Clock_SetupPLL
+                0x000006de       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000006de                Chip_Clock_SetupPLL
+ *fill*         0x0000070e        0x2 ff
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000710       0x18 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000710                Chip_Clock_EnablePeriphClock
+ .text.Chip_Clock_GetCPUClockSource
+                0x00000728       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000728                Chip_Clock_GetCPUClockSource
+ .text.Chip_Clock_SetCPUClockDiv
+                0x00000738        0xc C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000738                Chip_Clock_SetCPUClockDiv
+ .text.Chip_Clock_GetCPUClockDiv
+                0x00000744       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000744                Chip_Clock_GetCPUClockDiv
+ .text.Chip_Clock_GetPCLKDiv
+                0x00000754       0x38 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000754                Chip_Clock_GetPCLKDiv
+ .text.Chip_Clock_GetSYSCLKRate
+                0x0000078c       0x38 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000078c                Chip_Clock_GetSYSCLKRate
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x000007c4       0x34 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000007c4                Chip_Clock_GetMainPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x000007f8       0x20 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000007f8                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x00000818       0x12 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000818                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x0000082a       0x16 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000082a                Chip_Clock_GetPeripheralClockRate
+ .text.Chip_DAC_Init
+                0x00000840        0xa C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                0x00000840                Chip_DAC_Init
+ .text.Chip_DAC_UpdateValue
+                0x0000084a       0x10 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                0x0000084a                Chip_DAC_UpdateValue
+ .text.Chip_IOCON_PinMux
+                0x0000085a       0x3a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x0000085a                Chip_IOCON_PinMux
+ .text.Chip_IOCON_PinMuxSet
+                0x00000894       0x12 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00000894                Chip_IOCON_PinMuxSet
+ .text.Chip_IOCON_SetPinMuxing
+                0x000008a6       0x26 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x000008a6                Chip_IOCON_SetPinMuxing
+ .text.Chip_SetupXtalClocking
+                0x000008cc       0x80 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x000008cc                Chip_SetupXtalClocking
+ .text.Chip_UART_GetClockIndex
+                0x0000094c       0x28 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .text.Chip_UART_Init
+                0x00000974       0x38 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                0x00000974                Chip_UART_Init
+ .text.Chip_UART_TXEnable
+                0x000009ac        0x6 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                0x000009ac                Chip_UART_TXEnable
+ .text.Chip_UART_SetBaud
+                0x000009b2       0x34 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                0x000009b2                Chip_UART_SetBaud
+ *fill*         0x000009e6        0x2 ff
+ .text.arm_biquad_cascade_df1_init_q31
+                0x000009e8       0x20 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+                0x000009e8                arm_biquad_cascade_df1_init_q31
+ .text.arm_fir_init_q31
+                0x00000a08       0x24 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+                0x00000a08                arm_fir_init_q31
+ .text.arm_fir_q31
+                0x00000a2c      0x4f0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+                0x00000a2c                arm_fir_q31
+ .text.memset   0x00000f1c        0x4 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+                0x00000f1c                memset
+ .text.__weak_main
+                0x00000f20        0x4 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                0x00000f20                __weak_main
+                0x00000f20                __main
+ .text.__aeabi_memset_lowlevel
+                0x00000f24       0x32 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                0x00000f24                __aeabi_lowlevel_memset
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x00000f56        0x2 ff
+ .rodata.RTCOscRateIn
+                0x00000f58        0x4 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                0x00000f58                RTCOscRateIn
+ .rodata.OscRateIn
+                0x00000f5c        0x4 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                0x00000f5c                OscRateIn
+ .rodata.pinmuxing
+                0x00000f60       0x5c C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                0x00000fbc                . = ALIGN (0x4)
+
+.glue_7         0x00000fbc        0x0
+ .glue_7        0x00000fbc        0x0 linker stubs
+
+.glue_7t        0x00000fbc        0x0
+ .glue_7t       0x00000fbc        0x0 linker stubs
+
+.vfp11_veneer   0x00000fbc        0x0
+ .vfp11_veneer  0x00000fbc        0x0 linker stubs
+
+.v4_bx          0x00000fbc        0x0
+ .v4_bx         0x00000fbc        0x0 linker stubs
+
+.iplt           0x00000fbc        0x0
+ .iplt          0x00000fbc        0x0 ./src/ADCMSIS.o
+
+.rel.dyn        0x00000fbc        0x0
+ .rel.iplt      0x00000fbc        0x0 ./src/ADCMSIS.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00000fbc        0x0
+                0x00000fbc                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000fbc                __exidx_end = .
+                0x00000fbc                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00000fbc
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2 = .)
+                [!provide]                PROVIDE (__start_data_RamAHB32 = .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2)
+ *(.data.$RamAHB32)
+ *(.data.$RAM2.*)
+ *(.data.$RamAHB32.*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2 = .)
+                [!provide]                PROVIDE (__end_data_RamAHB32 = .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0xc8 load address 0x00000fbc
+ FILL mask 0xff
+                0x10000000                _data = .
+                [!provide]                PROVIDE (__start_data_RAM = .)
+                [!provide]                PROVIDE (__start_data_RamLoc32 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.filter   0x10000000        0x1 ./src/ADCMSIS.o
+                0x10000000                filter
+ *fill*         0x10000001        0x3 ff
+ .data.lowpass_taps
+                0x10000004       0xc4 ./src/filter.o
+                0x10000004                lowpass_taps
+                0x100000c8                . = ALIGN (0x4)
+                0x100000c8                _edata = .
+                [!provide]                PROVIDE (__end_data_RAM = .)
+                [!provide]                PROVIDE (__end_data_RamLoc32 = .)
+
+.igot.plt       0x100000c8        0x0 load address 0x00001084
+ .igot.plt      0x100000c8        0x0 ./src/ADCMSIS.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2 = .)
+                [!provide]                PROVIDE (__start_bss_RamAHB32 = .)
+ *(.bss.$RAM2)
+ *(.bss.$RamAHB32)
+ *(.bss.$RAM2.*)
+ *(.bss.$RamAHB32.*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2 = .)
+                [!provide]                PROVIDE (__end_bss_RamAHB32 = .)
+
+.bss            0x100000c8      0xd14
+                0x100000c8                _bss = .
+                [!provide]                PROVIDE (__start_bss_RAM = .)
+                [!provide]                PROVIDE (__start_bss_RamLoc32 = .)
+ *(.bss*)
+ .bss.i         0x100000c8        0x4 ./src/ADCMSIS.o
+                0x100000c8                i
+ .bss.OutputB   0x100000cc      0x200 ./src/ADCMSIS.o
+                0x100000cc                OutputB
+ .bss.OutputA   0x100002cc      0x200 ./src/ADCMSIS.o
+                0x100002cc                OutputA
+ .bss.InputB    0x100004cc      0x200 ./src/ADCMSIS.o
+                0x100004cc                InputB
+ .bss.InputA    0x100006cc      0x200 ./src/ADCMSIS.o
+                0x100006cc                InputA
+ .bss.biquad1_state
+                0x100008cc      0x210 ./src/ADCMSIS.o
+                0x100008cc                biquad1_state
+ .bss.lowpass_state
+                0x10000adc      0x2c0 ./src/ADCMSIS.o
+                0x10000adc                lowpass_state
+ .bss.SBIQUAD1  0x10000d9c       0x10 ./src/ADCMSIS.o
+                0x10000d9c                SBIQUAD1
+ .bss.SLP       0x10000dac        0xc ./src/ADCMSIS.o
+                0x10000dac                SLP
+ .bss.estado_OUT
+                0x10000db8        0x1 ./src/ADCMSIS.o
+                0x10000db8                estado_OUT
+ *fill*         0x10000db9        0x1 
+ .bss.indexOUT  0x10000dba        0x2 ./src/ADCMSIS.o
+                0x10000dba                indexOUT
+ .bss.index.0   0x10000dbc        0x2 ./src/adc.o
+ .bss.flag      0x10000dbe        0x1 ./src/adc.o
+                0x10000dbe                flag
+ .bss.estado    0x10000dbf        0x1 ./src/adc.o
+                0x10000dbf                estado
+ .bss.procesar  0x10000dc0        0x1 ./src/adc.o
+                0x10000dc0                procesar
+ *fill*         0x10000dc1        0x3 
+ .bss.biquad1_taps
+                0x10000dc4       0x14 ./src/filter.o
+                0x10000dc4                biquad1_taps
+ .bss.SystemCoreClock
+                0x10000dd8        0x4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x10000dd8                SystemCoreClock
+ *(COMMON)
+                0x10000ddc                . = ALIGN (0x4)
+                0x10000ddc                _ebss = .
+                [!provide]                PROVIDE (__end_bss_RAM = .)
+                [!provide]                PROVIDE (__end_bss_RamLoc32 = .)
+                [!provide]                PROVIDE (end = .)
+
+.noinit_RAM2    0x2007c000        0x0
+                [!provide]                PROVIDE (__start_noinit_RAM2 = .)
+                [!provide]                PROVIDE (__start_noinit_RamAHB32 = .)
+ *(.noinit.$RAM2)
+ *(.noinit.$RamAHB32)
+ *(.noinit.$RAM2.*)
+ *(.noinit.$RamAHB32.*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_noinit_RAM2 = .)
+                [!provide]                PROVIDE (__end_noinit_RamAHB32 = .)
+
+.noinit         0x10000ddc        0x0
+                0x10000ddc                _noinit = .
+                [!provide]                PROVIDE (__start_noinit_RAM = .)
+                [!provide]                PROVIDE (__start_noinit_RamLoc32 = .)
+ *(.noinit*)
+                0x10000ddc                . = ALIGN (0x4)
+                0x10000ddc                _end_noinit = .
+                [!provide]                PROVIDE (__end_noinit_RAM = .)
+                [!provide]                PROVIDE (__end_noinit_RamLoc32 = .)
+                [!provide]                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff79f8                PROVIDE (__valid_user_code_checksum = (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00001084                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00001084                _image_size = (_image_end - _image_start)
+OUTPUT(ADCMSIS.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x7e41
+ .debug_info    0x00000000      0x4fb ./src/ADCMSIS.o
+ .debug_info    0x000004fb      0x76d ./src/adc.o
+ .debug_info    0x00000c68      0x2e0 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000f48       0x3d ./src/crp.o
+ .debug_info    0x00000f85      0x15f ./src/dac.o
+ .debug_info    0x000010e4       0x8c ./src/filter.o
+ .debug_info    0x00001170       0xcb ./src/sysinit.o
+ .debug_info    0x0000123b     0x21e4 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_info    0x0000341f      0x5f8 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_info    0x00003a17      0xa4f C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_info    0x00004466      0x5d0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_info    0x00004a36      0xd6f C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_info    0x000057a5      0x217 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_info    0x000059bc      0x2fc C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_info    0x00005cb8      0x66c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_info    0x00006324     0x15f1 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .debug_info    0x00007915      0x173 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_info    0x00007a88      0x159 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_info    0x00007be1      0x260 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_abbrev   0x00000000     0x235f
+ .debug_abbrev  0x00000000      0x176 ./src/ADCMSIS.o
+ .debug_abbrev  0x00000176      0x232 ./src/adc.o
+ .debug_abbrev  0x000003a8      0x1a1 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000549       0x35 ./src/crp.o
+ .debug_abbrev  0x0000057e       0xf7 ./src/dac.o
+ .debug_abbrev  0x00000675       0x65 ./src/filter.o
+ .debug_abbrev  0x000006da       0x96 ./src/sysinit.o
+ .debug_abbrev  0x00000770      0x545 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_abbrev  0x00000cb5      0x1e1 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_abbrev  0x00000e96      0x2fe C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_abbrev  0x00001194      0x1f0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_abbrev  0x00001384      0x400 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_abbrev  0x00001784      0x151 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_abbrev  0x000018d5      0x152 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_abbrev  0x00001a27      0x212 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_abbrev  0x00001c39      0x4ee C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .debug_abbrev  0x00002127       0xb1 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_abbrev  0x000021d8       0xb1 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_abbrev  0x00002289       0xd6 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_aranges  0x00000000      0x560
+ .debug_aranges
+                0x00000000       0x20 ./src/ADCMSIS.o
+ .debug_aranges
+                0x00000020       0x28 ./src/adc.o
+ .debug_aranges
+                0x00000048       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000c8       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000e0       0x28 ./src/dac.o
+ .debug_aranges
+                0x00000108       0x18 ./src/filter.o
+ .debug_aranges
+                0x00000120       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000140       0xe0 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_aranges
+                0x00000220       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_aranges
+                0x00000250       0x78 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_aranges
+                0x000002c8       0x28 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_aranges
+                0x000002f0       0xc8 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_aranges
+                0x000003b8       0x38 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_aranges
+                0x000003f0       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_aranges
+                0x00000420       0x30 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_aranges
+                0x00000450       0xb0 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .debug_aranges
+                0x00000500       0x20 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_aranges
+                0x00000520       0x20 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_aranges
+                0x00000540       0x20 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_rnglists
+                0x00000000      0x4f0
+ .debug_rnglists
+                0x00000000       0x14 ./src/ADCMSIS.o
+ .debug_rnglists
+                0x00000014       0x19 ./src/adc.o
+ .debug_rnglists
+                0x0000002d       0x5b ./src/cr_startup_lpc175x_6x.o
+ .debug_rnglists
+                0x00000088       0x19 ./src/dac.o
+ .debug_rnglists
+                0x000000a1       0x13 ./src/sysinit.o
+ .debug_rnglists
+                0x000000b4       0xf3 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_rnglists
+                0x000001a7       0x1f C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_rnglists
+                0x000001c6       0x73 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_rnglists
+                0x00000239       0x25 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_rnglists
+                0x0000025e       0xe5 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_rnglists
+                0x00000343       0x25 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_rnglists
+                0x00000368       0x1f C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_rnglists
+                0x00000387       0x5f C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_rnglists
+                0x000003e6      0x10a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+
+.debug_line     0x00000000     0x42df
+ .debug_line    0x00000000      0x32e ./src/ADCMSIS.o
+ .debug_line    0x0000032e      0x283 ./src/adc.o
+ .debug_line    0x000005b1      0x270 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000821       0x2d ./src/crp.o
+ .debug_line    0x0000084e      0x12c ./src/dac.o
+ .debug_line    0x0000097a       0x6d ./src/filter.o
+ .debug_line    0x000009e7       0xa7 ./src/sysinit.o
+ .debug_line    0x00000a8e      0xa3f C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_line    0x000014cd      0x1dc C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_line    0x000016a9      0x45b C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_line    0x00001b04      0x22e C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_line    0x00001d32      0x6e5 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_line    0x00002417      0x1b1 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_line    0x000025c8      0x1e1 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_line    0x000027a9      0x34c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_line    0x00002af5      0xa2f C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .debug_line    0x00003524      0x3e2 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_line    0x00003906      0x3cc C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_line    0x00003cd2      0x60d C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_str      0x00000000     0x2b95
+ .debug_str     0x00000000      0x4af ./src/ADCMSIS.o
+                                0x504 (size before relaxing)
+ .debug_str     0x000004af      0x41b ./src/adc.o
+                                0x7c5 (size before relaxing)
+ .debug_str     0x000008ca      0x1a7 ./src/cr_startup_lpc175x_6x.o
+                                0x2af (size before relaxing)
+ .debug_str     0x00000a71       0x16 ./src/crp.o
+                                0x10d (size before relaxing)
+ .debug_str     0x00000a87       0x41 ./src/dac.o
+                                0x1e0 (size before relaxing)
+ .debug_str     0x00000ac8       0x10 ./src/filter.o
+                                0x121 (size before relaxing)
+ .debug_str     0x00000ad8       0x2c ./src/sysinit.o
+                                0x1c4 (size before relaxing)
+ .debug_str     0x00000b04      0xc7b C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                                0xf83 (size before relaxing)
+ .debug_str     0x0000177f      0x24b C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                                0x5fd (size before relaxing)
+ .debug_str     0x000019ca      0x500 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                0xaa5 (size before relaxing)
+ .debug_str     0x00001eca       0xc6 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                                0x808 (size before relaxing)
+ .debug_str     0x00001f90      0x546 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                0xe03 (size before relaxing)
+ .debug_str     0x000024d6       0x93 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                                0x240 (size before relaxing)
+ .debug_str     0x00002569       0x4a C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                                0x269 (size before relaxing)
+ .debug_str     0x000025b3       0xad C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                                0x4bc (size before relaxing)
+ .debug_str     0x00002660      0x3ae C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                0xd79 (size before relaxing)
+ .debug_str     0x00002a0e       0xd6 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+                                0x1db (size before relaxing)
+ .debug_str     0x00002ae4       0x3f C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+                                0x1ad (size before relaxing)
+ .debug_str     0x00002b23       0x72 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+                                0x1ed (size before relaxing)
+
+.comment        0x00000000       0xb5
+ .comment       0x00000000       0x45 ./src/ADCMSIS.o
+                                 0x46 (size before relaxing)
+ .comment       0x00000045       0x46 ./src/adc.o
+ .comment       0x00000045       0x46 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x00000045       0x46 ./src/crp.o
+ .comment       0x00000045       0x46 ./src/dac.o
+ .comment       0x00000045       0x46 ./src/filter.o
+ .comment       0x00000045       0x46 ./src/sysinit.o
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .comment       0x00000045       0x46 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .comment       0x00000045       0x70 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+                                 0x71 (size before relaxing)
+ .comment       0x000000b5       0x71 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .comment       0x000000b5       0x71 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+ .comment       0x000000b5       0x46 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .comment       0x000000b5       0x46 c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2d ./src/ADCMSIS.o
+ .ARM.attributes
+                0x0000002d       0x2d ./src/adc.o
+ .ARM.attributes
+                0x0000005a       0x2d ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000087       0x2d ./src/crp.o
+ .ARM.attributes
+                0x000000b4       0x2d ./src/dac.o
+ .ARM.attributes
+                0x000000e1       0x2d ./src/filter.o
+ .ARM.attributes
+                0x0000010e       0x2d ./src/sysinit.o
+ .ARM.attributes
+                0x0000013b       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .ARM.attributes
+                0x00000168       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .ARM.attributes
+                0x00000195       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .ARM.attributes
+                0x000001c2       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .ARM.attributes
+                0x000001ef       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .ARM.attributes
+                0x0000021c       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .ARM.attributes
+                0x00000249       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .ARM.attributes
+                0x00000276       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .ARM.attributes
+                0x000002a3       0x2d C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .ARM.attributes
+                0x000002d0       0x33 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .ARM.attributes
+                0x00000303       0x33 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .ARM.attributes
+                0x00000336       0x33 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+ .ARM.attributes
+                0x00000369       0x2d c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000396       0x2d c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x000003c3       0x1b c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+
+.debug_frame    0x00000000      0xad4
+ .debug_frame   0x00000000       0x28 ./src/ADCMSIS.o
+ .debug_frame   0x00000028       0x4c ./src/adc.o
+ .debug_frame   0x00000074       0xf4 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000168       0x30 ./src/dac.o
+ .debug_frame   0x00000198       0x20 ./src/sysinit.o
+ .debug_frame   0x000001b8      0x240 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_frame   0x000003f8       0x54 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_frame   0x0000044c       0xf4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_frame   0x00000540       0x44 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_frame   0x00000584      0x1b4 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_frame   0x00000738       0x50 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_frame   0x00000788       0x68 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_frame   0x000007f0       0x68 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_frame   0x00000858      0x1ec C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+ .debug_frame   0x00000a44       0x2c C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_frame   0x00000a70       0x2c C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_frame   0x00000a9c       0x38 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_loclists
+                0x00000000     0x19cd
+ .debug_loclists
+                0x00000000       0x18 ./src/adc.o
+ .debug_loclists
+                0x00000018       0xe8 ./src/cr_startup_lpc175x_6x.o
+ .debug_loclists
+                0x00000100       0x2a ./src/dac.o
+ .debug_loclists
+                0x0000012a      0x849 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+ .debug_loclists
+                0x00000973       0x29 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+ .debug_loclists
+                0x0000099c      0x32c C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+ .debug_loclists
+                0x00000cc8      0x36b C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_loclists
+                0x00001033       0x65 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+ .debug_loclists
+                0x00001098      0x15b C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_loclists
+                0x000011f3       0x24 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_loclists
+                0x00001217      0x7b6 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+
+.debug_loc      0x00000000      0x918
+ .debug_loc     0x00000000       0x8e C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_loc     0x0000008e       0x9a C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_loc     0x00000128      0x7f0 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_ranges   0x00000000       0x30
+ .debug_ranges  0x00000000       0x10 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_ranges  0x00000010       0x10 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_ranges  0x00000020       0x10 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+.debug_macinfo  0x00000000     0xdeff
+ .debug_macinfo
+                0x00000000     0x4a55 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+ .debug_macinfo
+                0x00004a55     0x4a55 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+ .debug_macinfo
+                0x000094aa     0x4a55 C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./src/adc.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+Board_Audio_Init                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_Buttons_Init                                C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_Debug_Init                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_ENET_GetMacADDR                             C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_I2C_Init                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_Init                                        C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                                                  ./src/ADCMSIS.o
+Board_Joystick_Init                               C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_LED_Set                                     C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                                                  ./src/ADCMSIS.o
+Board_LED_Test                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_LED_Toggle                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_SPI_AssertSSEL                              C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_SPI_DeassertSSEL                            C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_SPI_Init                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_SSP_Init                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_SetupClocking                               C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+Board_SetupMuxing                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+Board_SystemInit                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+                                                  ./src/sysinit.o
+Board_UARTGetChar                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_UARTPutChar                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_UARTPutSTR                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_UART_Init                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Board_USBD_Init                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+BusFault_Handler                                  ./src/cr_startup_lpc175x_6x.o
+Buttons_GetStatus                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+CANActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+CAN_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+CRP_WORD                                          ./src/crp.o
+Chip_ADC_DeInit                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_ADC_EnableChannel                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_Init                                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_Int_SetChannelCmd                        C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_ReadByte                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_ADC_ReadStatus                               C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_ADC_ReadValue                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_SetBurstCmd                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_SetSampleRate                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  ./src/adc.o
+Chip_ADC_SetStartMode                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_Clock_DisablePLL                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+Chip_Clock_DisablePeriphClock                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_Clock_EnablePLL                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+Chip_Clock_EnablePeriphClock                      C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_Clock_GetCPUClockDiv                         C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetCPUClockSource                      C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetMainClockRate                       C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetMainPLLOutClockRate                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetPCLKDiv                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetPeripheralClockRate                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+Chip_Clock_GetSYSCLKRate                          C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetSystemClockRate                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+Chip_Clock_GetUSBClockDiv                         C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetUSBClockRate                        C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_GetUSBPLLOutClockRate                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_IsPeripheralClockEnabled               C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_SetCLKOUTSource                        C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_SetCPUClockDiv                         C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+Chip_Clock_SetCPUClockSource                      C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_SetPCLKDiv                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_SetUSBClockDiv                         C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+Chip_Clock_SetupPLL                               C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+Chip_DAC_DeInit                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+Chip_DAC_Init                                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                                                  ./src/dac.o
+Chip_DAC_SetBias                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+Chip_DAC_UpdateValue                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(dac_17xx_40xx.o)
+                                                  ./src/dac.o
+Chip_I2S_DMA_RxCmd                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_DMA_TxCmd                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_DeInit                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_Init                                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_I2S_Int_RxCmd                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_Int_TxCmd                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_RxConfig                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+Chip_I2S_TxConfig                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_IOCON_PinMux                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_IOCON_PinMuxSet                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+Chip_IOCON_SetPinMuxing                           C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+Chip_SetupIrcClocking                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+Chip_SetupXtalClocking                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board_sysinit.o)
+Chip_SystemInit                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+Chip_UART_ABCmd                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_CheckBusy                               C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_DeInit                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_GetABEOStatus                           C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_IRQRBHandler                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_Init                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_UART_RXIntHandlerRB                          C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_Read                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_ReadBlocking                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_ReadRB                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_Send                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_SendBlocking                            C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_SendRB                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_SetBaud                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_UART_SetBaudFDR                              C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_TXDisable                               C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_UART_TXEnable                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+Chip_UART_TXIntHandlerRB                          C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+Chip_USB_Init                                     C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+DMA_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+DebugMon_Handler                                  ./src/cr_startup_lpc175x_6x.o
+EINT0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+EINT3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+ETH_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+HardFault_Handler                                 ./src/cr_startup_lpc175x_6x.o
+I2C0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2C2_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+I2S_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+InputA                                            ./src/ADCMSIS.o
+                                                  ./src/adc.o
+InputB                                            ./src/ADCMSIS.o
+                                                  ./src/adc.o
+IntDefaultHandler                                 ./src/cr_startup_lpc175x_6x.o
+Joystick_GetStatus                                C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+MCPWM_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+MemManage_Handler                                 ./src/cr_startup_lpc175x_6x.o
+NMI_Handler                                       ./src/cr_startup_lpc175x_6x.o
+OscRateIn                                         C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+OutputA                                           ./src/ADCMSIS.o
+OutputB                                           ./src/ADCMSIS.o
+PLL0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PLL1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PWM1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+PendSV_Handler                                    ./src/cr_startup_lpc175x_6x.o
+QEI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RIT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+RTCOscRateIn                                      C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+RTC_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+ResetISR                                          ./src/cr_startup_lpc175x_6x.o
+RingBuffer_Init                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+RingBuffer_Insert                                 C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+RingBuffer_InsertMult                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+RingBuffer_Pop                                    C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+RingBuffer_PopMult                                C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+SBIQUAD1                                          ./src/ADCMSIS.o
+SLP                                               ./src/ADCMSIS.o
+SPI_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc175x_6x.o
+SVC_Handler                                       ./src/cr_startup_lpc175x_6x.o
+Serial_CreateStream                               C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+SysTick_Handler                                   ./src/cr_startup_lpc175x_6x.o
+SystemCoreClock                                   C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+SystemCoreClockUpdate                             C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                                                  ./src/ADCMSIS.o
+SystemInit                                        ./src/sysinit.o
+                                                  ./src/cr_startup_lpc175x_6x.o
+TIMER0_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER1_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER2_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+TIMER3_IRQHandler                                 ./src/cr_startup_lpc175x_6x.o
+UART0_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART1_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART2_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+UART3_IRQHandler                                  ./src/cr_startup_lpc175x_6x.o
+USBActivity_IRQHandler                            ./src/cr_startup_lpc175x_6x.o
+USB_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+UsageFault_Handler                                ./src/cr_startup_lpc175x_6x.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc175x_6x.o
+__aeabi_idiv0                                     c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+__aeabi_ldivmod                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+__aeabi_lowlevel_memset                           c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+__aeabi_memclr                                    c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr4                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memclr8                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy                                    c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+                                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+__aeabi_memcpy4                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memcpy8                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove4                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memmove8                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset                                    c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset4                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_memset8                                   c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(memcpy.o)
+__aeabi_uldivmod                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(uart_17xx_40xx.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(i2s_17xx_40xx.o)
+__bhs_ldivmod1                                    c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v7-m/nofp\libcr_eabihelpers.a(division_64.o)
+__bss_section_table_end                           ./src/cr_startup_lpc175x_6x.o
+__data_section_table                              ./src/cr_startup_lpc175x_6x.o
+__data_section_table_end                          ./src/cr_startup_lpc175x_6x.o
+__main                                            c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc175x_6x.o
+__sys_readc                                       C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+__sys_write                                       C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+__valid_user_code_checksum                        ./src/cr_startup_lpc175x_6x.o
+__weak_main                                       c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc175x_6x.o
+adcInit                                           ./src/adc.o
+                                                  ./src/ADCMSIS.o
+arm_biquad_cascade_df1_init_q31                   C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+                                                  ./src/ADCMSIS.o
+arm_fir_init_q31                                  C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+                                                  ./src/ADCMSIS.o
+arm_fir_q31                                       C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_q31.o)
+                                                  ./src/ADCMSIS.o
+biquad1_state                                     ./src/ADCMSIS.o
+biquad1_taps                                      ./src/filter.o
+                                                  ./src/ADCMSIS.o
+bss_init                                          ./src/cr_startup_lpc175x_6x.o
+dacInit                                           ./src/dac.o
+                                                  ./src/ADCMSIS.o
+dacWrite                                          ./src/dac.o
+                                                  ./src/ADCMSIS.o
+data_init                                         ./src/cr_startup_lpc175x_6x.o
+estado                                            ./src/adc.o
+                                                  ./src/ADCMSIS.o
+estado_OUT                                        ./src/ADCMSIS.o
+filter                                            ./src/ADCMSIS.o
+flag                                              ./src/adc.o
+                                                  ./src/ADCMSIS.o
+g_pfnVectors                                      ./src/cr_startup_lpc175x_6x.o
+                                                  ./src/sysinit.o
+i                                                 ./src/ADCMSIS.o
+indexOUT                                          ./src/ADCMSIS.o
+lowpass_state                                     ./src/ADCMSIS.o
+lowpass_taps                                      ./src/filter.o
+                                                  ./src/ADCMSIS.o
+main                                              ./src/ADCMSIS.o
+                                                  c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(__weak__main.o)
+memcpy                                            c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memcpy.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(ring_buffer.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\lpc_board_nxp_lpcxpresso_1769\Release\liblpc_board_nxp_lpcxpresso_1769.a(board.o)
+memset                                            c:/nxp/mcuxpressoide_11.8.0_1165/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.8.0.202306131047/tools/bin/../lib/gcc/arm-none-eabi/12.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libcr_c.a(memset.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_fir_init_q31.o)
+                                                  C:\Users\ipave\Documents\GitHub\TCII\CMSIS_DSPLIB_CM3\lib\libCMSIS_DSPLIB_CM3.a(arm_biquad_cascade_df1_init_q31.o)
+procesar                                          ./src/adc.o
+                                                  ./src/ADCMSIS.o
+readAdcVal                                        C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)
+setStartMode                                      C:\Users\ipave\Documents\GitHub\TCII\lpc_chip_175x_6x\Release\liblpc_chip_175x_6x.a(adc_17xx_40xx.o)

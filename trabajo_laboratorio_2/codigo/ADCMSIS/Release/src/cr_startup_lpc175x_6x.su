@@ -1,0 +1,13 @@
+../src/cr_startup_lpc175x_6x.c:325:6:NMI_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:330:6:HardFault_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:335:6:MemManage_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:340:6:BusFault_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:345:6:UsageFault_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:350:6:SVC_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:355:6:DebugMon_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:360:6:PendSV_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:365:6:SysTick_Handler	0	static
+../src/cr_startup_lpc175x_6x.c:376:6:IntDefaultHandler	0	static
+../src/cr_startup_lpc175x_6x.c:233:6:data_init	8	static
+../src/cr_startup_lpc175x_6x.c:242:6:bss_init	0	static
+../src/cr_startup_lpc175x_6x.c:268:1:ResetISR	16	static

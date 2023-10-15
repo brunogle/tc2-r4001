@@ -1,0 +1,2 @@
+../src/dac.c:14:6:dacInit	8	static
+../src/dac.c:19:6:dacWrite	16	static

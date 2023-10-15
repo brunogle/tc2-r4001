@@ -1,0 +1,2 @@
+../src/arm_float_to_q31.c:43:21:clip_q63_to_q31	16	static
+../src/arm_float_to_q31.c:85:6:arm_float_to_q31	40	static
