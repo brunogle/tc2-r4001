@@ -30,3 +30,12 @@ https://nbviewer.org/github/brunogle/tc2-r4001/blob/master/trabajo_semanal_7/tra
 
 ## Trabajo Semanal 8
 https://nbviewer.org/github/brunogle/tc2-r4001/blob/master/trabajo_semanal_8/trabajo_semanal_8.ipynb
+
+## Trabajo Semanal 9
+https://nbviewer.org/github/brunogle/tc2-r4001/blob/master/trabajo_semanal_9/trabajo_semanal_9.ipynb
+
+## Trabajo Semanal 10
+https://nbviewer.org/github/brunogle/tc2-r4001/blob/master/trabajo_semanal_10/trabajo_semanal_10.ipynb
+
+## Trabajo Semanal 11
+https://nbviewer.org/github/brunogle/tc2-r4001/blob/master/trabajo_semanal_11/trabajo_semanal_11.ipynb
