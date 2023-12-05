@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Consigna}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Cálculos}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Cálculos de coeficientes}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Filtros de acondicionamiento de señal}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Armado del filtro}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Mediciones}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Talkthrough}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Filtro A: FIR Equiripple}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Filtro B: FIR Least Squares}{8}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Filtro C: IIR Butterworth}{8}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{9}{chapter.5}%

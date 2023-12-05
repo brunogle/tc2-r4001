@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa consigna de este trabajo práctico fjioefmodsnsoijwncm\\E$"}
